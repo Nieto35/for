@@ -1,4 +1,4 @@
-const feed = [
+const feeds = [
     {
         profile: "AJ + Español",
         username: "ajplusespanol",
@@ -169,5 +169,5 @@ const feed = [
 ];
 
 module.exports = {
-    feed
+    feeds
 }
